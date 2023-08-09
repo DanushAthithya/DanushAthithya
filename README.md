@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-
+- 👨‍💻<a href="https://portfolio2-lilac-one.vercel.app/" target="blank">View Portfolio</a>
 
 - 📫 How to reach me **danushathithya.24cs@licet.ac.in**
 
